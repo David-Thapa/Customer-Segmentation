@@ -55,7 +55,7 @@ jupyter-lab
 
 ## Data
 
-**Student Performance Data Set**
+**Mall Customer Data Set**
 
 *Source: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=download*
 
